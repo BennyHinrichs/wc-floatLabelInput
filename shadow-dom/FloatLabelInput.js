@@ -1,3 +1,5 @@
+// I was too lazy to make an example for the shadow DOM version, but it's pretty similar to the non-shadow DOM version
+
 // this doesn't exist yet, but it will be cool when it does
 // import styles from 'https://cdnjs.cloudflare.com/ajax/libs/float-label-css/1.0.2/float-label.min.css';
 
